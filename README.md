@@ -4,10 +4,10 @@ A proof of concept shared server to share movies, tv, anime, RPGs, and music. Ze
 
 ## Hardware
 
--i3 5015u 2 core 4 thread
--32gb ssd
--1tb usb 3.0 2.5" harddrive
--8gb ddr3 ram
+- i3 5015u 2 core 4 thread
+- 32gb ssd
+- 1tb usb 3.0 2.5" harddrive
+- 8gb ddr3 ram
 
 ## Software
 
