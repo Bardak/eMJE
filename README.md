@@ -1,4 +1,4 @@
-#eMJE (eMLG Janky Emporium)
+# eMJE (eMLG Janky Emporium)
 
 A proof of concept shared server to share movies, tv, anime, RPGs, and music. Zero guaranteed uptime or data redundancy.
 
