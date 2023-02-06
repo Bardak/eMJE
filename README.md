@@ -2,14 +2,14 @@
 
 A proof of concept shared server to share movies, tv, anime, RPGs, and music. Zero guaranteed uptime or data redundancy.
 
-##Hardware
+## Hardware
 
 -i3 5015u 2 core 4 thread
 -32gb ssd
 -1tb usb 3.0 2.5" harddrive
 -8gb ddr3 ram
 
-##Software
+## Software
 
 -Debian Linux 11
 -Snapraid & mergerfs
@@ -18,13 +18,13 @@ A proof of concept shared server to share movies, tv, anime, RPGs, and music. Ze
 -libtorrent (Bit torrent server)
 -jellyseerr (Torrent coordinator)
 
-##Networking 
+## Networking 
 
 -300mbs down (limited to 200mb)
 -30mbs up (limited to 20mb)
 -Tailscale overlay VPN 
 
-##Future
+## Future
 
 -hard drive redundancy
 -using sata hard drives
